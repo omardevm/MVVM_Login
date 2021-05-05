@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MVVMLogin</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="icon">icon</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot">Forgot your password?</string>
+    <string name="login">Login</string>
+    <string name="register">Don\'t have an account? <b>Register now</b></string>
+    <string name="name">Name</string>
+    <string name="reg">Register Now</string>
+    <string name="already">Already have an account? <b>Login Now</b></string>
+</resources>
